@@ -1,0 +1,77 @@
+.Emohead{
+    text-align: center;
+    color:#FA940E;
+    font-family:cursive;
+    font-size: 150%;
+    margin-top: 3%;
+}
+
+.inputfield{
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #FA940E;
+    color: #FA940E;
+    font-size: 25px;
+    margin-bottom: 20px;
+    outline: none;
+    padding: 1px;
+    width: 50%;
+
+}
+.outputfield{
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #FA940E;
+    color: #FA940E;
+    font-size: 25px;
+    margin-bottom: 20px;
+    outline: none;
+    padding: 1px;
+    width: 25%;
+
+}
+.para{
+    margin-top: 5%;
+    text-align:center;
+}
+
+.Inputdiv{
+    margin-top: 5%;
+    text-align: center;
+}
+.submitbtn{
+    margin-top: 1%;
+    padding: 10px;
+    background-color: #FA940E;
+    color:white;
+    border: none;
+    font-size:xx-large;
+    width: 15%;
+    border-radius: 5%;
+}
+.predictedEmotion{
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    color: #FA940E;
+    font-size: 25px;
+    margin-bottom: 20px;
+    outline: none;
+    padding: 5px;
+    width: 50%;
+    text-wrap:break-word;
+
+}
+footer{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    bottom: 5%;
+    font-style:italic;
+    width: 100%;
+    position: fixed;
+}
